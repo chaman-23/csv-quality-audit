@@ -1,0 +1,28 @@
+{
+  "passed": false,
+  "rows": 5,
+  "valid_width_rows": 4,
+  "columns": [
+    "customer_id",
+    "region",
+    "order_total"
+  ],
+  "duplicate_rows_beyond_first": 1,
+  "malformed_record_numbers": [
+    6
+  ],
+  "missing_by_column": {
+    "customer_id": 0,
+    "region": 1,
+    "order_total": 0
+  },
+  "required_missing": {
+    "region": 1
+  },
+  "invalid_numeric": {
+    "order_total": 2
+  },
+  "duplicate_unique_values_beyond_first": {
+    "customer_id": 1
+  }
+}
