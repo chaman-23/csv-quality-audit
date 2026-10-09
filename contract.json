@@ -1,0 +1,13 @@
+{
+  "required": [
+    "customer_id",
+    "region",
+    "order_total"
+  ],
+  "unique": [
+    "customer_id"
+  ],
+  "numeric": [
+    "order_total"
+  ]
+}
