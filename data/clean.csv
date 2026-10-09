@@ -1,0 +1,4 @@
+customer_id,region,order_total
+C01,West,125.00
+C02,North,70.00
+C03,South,100.00
